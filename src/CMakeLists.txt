@@ -137,6 +137,7 @@ target_link_libraries(haruna PRIVATE
     Qt6::Quick
     Qt6::QuickControls2
     Qt6::Sql
+    Qt6::WebEngineQuick
 
     KF6::ColorScheme
     KF6::ConfigCore
